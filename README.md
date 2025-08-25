@@ -1,6 +1,7 @@
 # AgencyAI.io  
 
-From strategy to execution, we craft digital solutions that move your business forward.  
+The AgencyAI landing page is designed to present the brand’s vision and services in a clean, modern, and engaging way.  
+From strategy to execution, it highlights how digital solutions can move businesses forward and create meaningful impact.  
 
 ---
 
