@@ -1,6 +1,6 @@
 # AgencyAI.io  
 
-The AgencyAI landing page is designed to present the brand’s vision and services in a clean, modern, and engaging way.  
+The AgencyAI.io landing page is designed to present the brand’s vision and services in a clean, modern, and engaging way.  
 From strategy to execution, it highlights how digital solutions can move businesses forward and create meaningful impact.  
 
 ---
