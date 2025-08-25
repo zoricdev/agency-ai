@@ -7,8 +7,8 @@ From strategy to execution, it highlights how digital solutions can move busines
 
 ## Overview  
 
-This is the official **AgencyAI.io** web application built with **React + Vite**.  
-The project is styled with **Tailwind CSS**, uses **Motion** for animations, and is deployed with **Vercel** for seamless hosting.
+AgencyAI.io is a modern, high-performance web application built using React and Vite, leveraging the latest advancements in JavaScript and front-end engineering. 
+The project employs Tailwind CSS for a utility-first, responsive design system, and Framer Motion to deliver smooth, engaging animations.
 
 ---
 
