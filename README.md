@@ -1,22 +1,24 @@
-# AgencyAi.io  
+# AgencyAi
 
-The AgencyAi.io landing page is designed to present the brand’s vision and services in a clean, modern, and engaging way.  
-From strategy to execution, it highlights how digital solutions can move businesses forward and create meaningful impact.  
 
----
+**AgencyAi** ([AgencyAi.io](https://agency-ai-omega.vercel.app/)) is a modern landing page designed to communicate a brand’s vision and services with clarity, style, and performance. From strategy to execution, it demonstrates how digital solutions can drive business growth and deliver meaningful impact.
 
-## Overview  
 
-AgencyAi.io is a modern, high-performance web application built using React and Vite, leveraging the latest advancements in JavaScript and front-end engineering. 
-The project employs Tailwind CSS for a utility-first, responsive design system, and Framer Motion to deliver smooth, engaging animations.
+## Overview
+AgencyAi is a high-performance web application built with **React** and **Vite**, taking advantage of modern JavaScript features and best practices in front-end engineering. The application uses **Tailwind CSS** for a responsive, utility-first design system and **Framer Motion** to create smooth, engaging animations, resulting in a fast, interactive, and visually appealing user experience.
 
----
 
-## Tech Stack  
+## Features
+- Clean, modern, and responsive UI
+- Smooth animations and transitions
+- Optimised for performance and accessibility
+- Modular and maintainable code structure
 
-- **React 19** – Front-end framework  
-- **Vite 7** – Fast build tool & dev server  
-- **Tailwind CSS 4** – Utility-first CSS framework  
-- **Motion** – Animation library  
-- **ESLint** – Code linting and best practices  
-- **Vercel** – Deployment & hosting  
+
+## Tech Stack
+- **React** – Front-end framework
+- **Vite** – Lightning-fast build tool and dev server
+- **Tailwind CSS** – Utility-first responsive design framework
+- **Framer Motion** – Animation library for interactive UI
+- **ESLint** – Code linting and best practices
+- **Vercel** – Deployment and hosting
