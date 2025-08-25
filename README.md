@@ -1,13 +1,13 @@
-# AgencyAI.io  
+# AgencyAi.io  
 
-The AgencyAI.io landing page is designed to present the brand’s vision and services in a clean, modern, and engaging way.  
+The AgencyAi.io landing page is designed to present the brand’s vision and services in a clean, modern, and engaging way.  
 From strategy to execution, it highlights how digital solutions can move businesses forward and create meaningful impact.  
 
 ---
 
 ## Overview  
 
-AgencyAI.io is a modern, high-performance web application built using React and Vite, leveraging the latest advancements in JavaScript and front-end engineering. 
+AgencyAi.io is a modern, high-performance web application built using React and Vite, leveraging the latest advancements in JavaScript and front-end engineering. 
 The project employs Tailwind CSS for a utility-first, responsive design system, and Framer Motion to deliver smooth, engaging animations.
 
 ---
